@@ -1,4 +1,4 @@
-package mockito.task2;
+package mockito.test;
 
 import mockito.task1.EmailSender;
 import org.junit.jupiter.params.ParameterizedTest;

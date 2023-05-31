@@ -1,4 +1,4 @@
-package mockito.task2;
+package mockito.test;
 
 ///Создайте класс EmailService, который зависит от класса EmailClient. EmailClient предоставляет метод
 // sendEmail(String recipient, String message), отправляющий электронную почту. Напишите тест, используя Mockito,

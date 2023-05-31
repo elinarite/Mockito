@@ -1,4 +1,4 @@
-package mockito.task2;
+package mockito.test;
 //Создайте класс WeatherService, который зависит от класса WeatherAPI.
 //        WeatherAPI содержит метод getTemperature(String city), возвращающий текущую температуру в
 //        указанном городе. Напишите тест, используя Mockito, чтобы проверить, что метод getTemperature был

@@ -1,4 +1,4 @@
-package mockito.task2;
+package mockito.test;
 
 //Создайте класс FileManager, который зависит от класса FileReader. FileReader содержит метод readFile(String filePath),
 // возвращающий содержимое файла. Напишите тест, используя Mockito, чтобы проверить, что метод readFile был вызван

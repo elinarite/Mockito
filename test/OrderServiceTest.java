@@ -1,4 +1,4 @@
-package mockito.task2;
+package mockito.test;
 
 import mockito.task1.InventoryManager;
 import mockito.task1.OrderService;

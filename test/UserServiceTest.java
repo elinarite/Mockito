@@ -1,4 +1,4 @@
-package mockito.task2;
+package mockito.test;
 //Создайте класс UserService, который зависит от класса UserRepository.
 // UserRepository содержит метод saveUser(User user), сохраняющий пользователя в
 // базе данных. Напишите тест, используя Mockito, чтобы убедиться, что метод saveUser
